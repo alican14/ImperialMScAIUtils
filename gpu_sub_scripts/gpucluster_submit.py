@@ -8,7 +8,7 @@ import os
 import subprocess
 import glob
 
-user = ''  # put your username here
+user = 'aa9120'  # put your username here
 type_ = ''  # label the job kinda (all runs will be saved to a director with this name)
 description = """""" # provide description of job
 venv_path = '' # path to your virtual environment
